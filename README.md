@@ -1,2 +1,2 @@
-# battleship 
-it is react battleship
+# checkers 
+it is checkers
