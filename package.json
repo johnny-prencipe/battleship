@@ -17,7 +17,5 @@
     "url": "https://github.com/johnny-prencipe/battleship/issues"
   },
   "homepage": "https://github.com/johnny-prencipe/battleship#readme",
-  "dependencies": {
-    "react": "^17.0.1"
-  }
+  "dependencies": {}
 }
